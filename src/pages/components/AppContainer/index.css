@@ -1,0 +1,5 @@
+.AppContainer {
+  display: flex;
+  flex-direction: row;
+  min-width: 600px;
+}
