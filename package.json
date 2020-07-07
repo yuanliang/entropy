@@ -163,7 +163,7 @@
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
-    "electron": "^5.0.1",
+    "electron": "^9.1.0",
     "electron-builder": "^20.40.2",
     "husky": "^2.3.0",
     "prettier": "1.17.1",
